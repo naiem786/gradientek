@@ -1,0 +1,36 @@
+.nav2 .nav .nav-item:hover {
+  background-color: rgb(169, 162, 162);
+  transition: .3s;
+}
+
+.nav2{
+  box-shadow:0 0 5px #00171f;
+
+}
+footer{
+  margin-top: 39px;
+  background-color: #00171f;
+  box-shadow: 0 0 10px #00171f;
+}
+
+.carousel-inner .carousel-item {
+  margin-bottom: 30px;
+  box-shadow: 0 0 10px #00171f;
+  max-height: 900px;
+
+} 
+.row .card{
+    box-shadow: 0 0 3px  #00171f;
+
+}
+img {
+  max-height: 500px;
+}
+
+
+/* @media all and (min-width: 992px) {
+	.nav .nav-item .nav-link{  display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0;  }
+	.nav .nav-item .nav-link{ color: #fff;  }
+	.nav .nav-item .nav-link{ top:80%; transform: rotateX(-75deg); transform-origin: 0% 0%; }
+	.nav .dropdown-menu.fade-up{ top:180%;  }
+}		 */
